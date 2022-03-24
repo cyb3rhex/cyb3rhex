@@ -5,3 +5,5 @@
 - 📫 Comment
 
 ![Test Image 1](https://cdn.cloudflare.steamstatic.com/steam/apps/1077860/extras/scanningGif.gif)
+
+![Test Image 1](https://raw.githubusercontent.com/extensionsapp/progre.sh/master/progreSh.gif)
