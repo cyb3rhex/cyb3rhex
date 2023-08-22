@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 Comment
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyb3rhex&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3rhex)
+![cyb3rhex's Stats](https://github-readme-stats.vercel.app/api?username=cyb3rhex&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
+![cyb3rhex's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cyb3rhex&theme=blue-green&hide_border=false)
+![cyb3rhex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3rhex&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
