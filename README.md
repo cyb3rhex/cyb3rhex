@@ -1,4 +1,4 @@
-<center>
+<p align=center>
 
 # 💫 About Me:
 👋 Hi, I’m @cyb3rhex<br>⛓️ bash LSDeep.sh<br>👀 I’m interested in Le3ks...<br>🌱 I’m currently learning /...<br>💞️ I’m looking to collaborate on ...<br>📫 Comment
@@ -17,4 +17,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=cyb3rhex&icon=3&color=0)](https://visitcount.itsvg.in)
 
-</center>
+
+</p>
